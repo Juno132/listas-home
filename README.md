@@ -95,6 +95,8 @@ http://200.24.132.99:8000/play/a02b
 http://200.24.132.99:8000/play/a02s
 #EXTINF:-1,RTS HD
 http://200.24.132.99:8000/play/a004
+#EXTINF:-1,Sony
+http://200.24.132.99:8000/play/a02o
 #EXTINF:-1,Space
 http://200.24.132.99:8000/play/a02q
 #EXTINF:-1,TBS
