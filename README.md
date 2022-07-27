@@ -74,7 +74,7 @@ http://200.24.132.99:8000/play/a01e
 #EXTINF:-1,HomeandHealth
 http://200.24.132.99:8000/play/a02e
 #EXTINF:-1,ImagenTV
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLvoX3QXjJ6vHuB04TjFtXrgRNkYY4vNq2Y48JQOVyy1y)/dm/3/x82z4if/d/live-1.m3u8
+https://stream-02.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLqrzEiRCud5YSJuKr5wmDWRka1a6czquoCZJAsdq7Wpg)/dm/3/x82z4if/d/live-0.m3u8
 #EXTINF:-1,I-Sat
 http://200.24.132.99:8000/play/a01h
 #EXTINF:-1,MTV
